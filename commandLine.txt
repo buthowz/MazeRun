@@ -1,0 +1,1 @@
+g++ maze.cpp position.cpp creature.cpp move.cpp main.cpp -o mazeRun
